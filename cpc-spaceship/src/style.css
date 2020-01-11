@@ -1,0 +1,10 @@
+html {
+  overflow: hidden;
+}
+body{position:absolute;
+}
+
+.instruct{
+  position:absolute;
+  color:white;
+}
